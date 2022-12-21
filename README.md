@@ -7,7 +7,7 @@ Software Engineer
 I have always been fascinated with technology, which eventually led me to coding. I started coding as I worked as a project manager. I began experimenting with HTML/CSS and instantly enjoyed the combination of technology and creativity. Since then, I've managed to build full stack projects using many different technologies.
 
 * 🌍  I'm based in Los Angeles, CA.
-* ✉️  You can contact me at [patrick9hull4@gmail.com](mailto:patrick9hull4@gmail.com) || [www.linkedin.com/in/patrick-hull-software-engineer]
+* ✉️  You can contact me at [patrick9hull4@gmail.com](mailto:patrick9hull4@gmail.com) || www.linkedin.com/in/patrick-hull-software-engineer
 * 🧠  I'm learning GraphQL.
 * 🤝  I'm open to collaborating on any forward thinking and exciting ideas.
 
