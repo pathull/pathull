@@ -8,7 +8,6 @@ I have always been fascinated with technology, which eventually led me to coding
 
 * 🌍  I'm based in Los Angeles, CA.
 * ✉️  You can contact me at [patrick9hull4@gmail.com](mailto:patrick9hull4@gmail.com)
-* 🚀  I'm currently working on [EventPlanner](http://github.com/11ac11/footy-chat)
 * 🧠  I'm learning GraphQL.
 * 🤝  I'm open to collaborating on any forward thinking and exciting ideas.
 
