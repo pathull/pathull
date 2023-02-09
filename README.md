@@ -9,7 +9,7 @@ I have always been fascinated with technology, which eventually led me to coding
 * 🌍  I'm based in Los Angeles, CA.
 * ✉️  You can contact me at [patrick9hull4@gmail.com](mailto:patrick9hull4@gmail.com) || www.linkedin.com/in/patrick-hull-software-engineer
 * 🧠  I'm learning GraphQL.
-* 🤝  I'm open to collaborating on any forward thinking and exciting ideas.
+* 🤝  I'm open to collaborating on any forward thinking and exciting ideas. Let's build something sick!
 
 ## Skills
 
